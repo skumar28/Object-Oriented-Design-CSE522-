@@ -1,0 +1,4 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="D:\Fall_2017\CSE522_OOD\Workspace\HolidaysBookingSystem\lib\cofoja.contracts.asm-1.3-20160207.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

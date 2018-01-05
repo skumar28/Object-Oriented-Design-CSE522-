@@ -1,0 +1,8 @@
+1#Best of Western New York#This is value for money package#1#4 Days 3 Nights#Buffalo#noImage#1,2#2,3#1,2#1
+2#Trip to New York City#This is best package for NYC #2#4 Days 3 Nights#New York City#noImage#1#2,3#1,2#2
+3#Visit LosAngeles#This is value for money package#3#4 Days 3 Nights#LosAngeles#noImage#1,2#2#1,2#3
+4#Welcome Arizona#Visit the hot Arizona#1#4 Days 3 Nights#Arizona#noImage#1,2#1,2,3#1,2#1
+5#Visit Delhi#Visit the heart of India#1#4 Days 5 Nights#Delhi#noImage#1#2,3#1,2#2
+6#London Trip#This is value for money package#1#3 Days 2 Nights#London#noImage#1,2#2,3#1,2#3
+7#Welcome Mumbai#This is value for money package for Mumbai#1#2 Days 3 Nights#Mumbai#noImage#1,3#2,3#1,2#2
+8#Go Goa#This is best Goa package#1#3 Days 4 Nights#Goa#noImage#1,2,3#2,3#1,2,3#1

@@ -1,0 +1,4 @@
+1#TestHotel#This is test hotel #Buffalo#USA#12 PM #11 AM #Delux #Breakfast Included #100
+2#Taj Hotel#Best Hotel in Town #Buffalo#USA#12 PM #11 AM #Delux #Breakfast Included #80
+3#Marriot#This is hotel located near Niagara Falls #Buffalo#USA#12 PM #11 AM #Delux #Breakfast Included #100
+4#Hayat Regency#2 miles from Niagara Falls#Buffalo#USA#12 PM #11 AM #Standard#Room Only #80	
